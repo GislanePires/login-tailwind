@@ -9,16 +9,23 @@
 </head>
 <body class="bg-gradient-to-br from-zinc-950 to-zinc-800 w-screen h-screen flex justify-center items-center">
     <section class="w-1/2 h-[600px] bg-zinc-950 rounded-3xl flex">
-        <section id="form" class="basis-5/12 bg-violet-800 text-white flex flex-col">
-            <h1 class="font-sans text-3xl text-white">Faça o seu login</h1>
-            <form action="" class="flex flex-col">
-                <label for="">
+        <section id="form" class="basis-5/12 h-full rounded-3xl text-white flex flex-col items-center">
+            <h1 class="font-sans text-3xl text-white my-12 font-bold">Faça o seu login
+                <span class="w-3 h-3 inline-block rounded-full bg-gradient-to-tr from-[#4158D0] via-[#C850C0] to-[#FFCC70] bg-[#D9D9D9]"></span>
+            </h1>
+            <form action="" class="size-96 flex flex-col justify-around items-center">
+                <label for="" class="">
                     Email
-                    <input type="email">
+                    <div class="bg-none focus-within:bg-gradient-to-tr from-[#4158D0] via-[#C850C0] via-46% to-[#FFCC70] p-[2px] w-full rounded-lg">
+                        <input type="email" class="h-10 bg-zinc-800  text-white rounded-lg p-2 outline-none appearance-none w-full">
+                    </div>
                 </label>
-                <label for="">
+
+               <label for="" class="">
                     Senha
-                    <input type="password">
+                    <div class="bg-none focus-within:bg-gradient-to-tr from-[#4158D0] via-[#C850C0] via-46% to-[#FFCC70] p-[2px] w-full rounded-lg">
+                        <input type="password" class="h-10 bg-zinc-800  text-white rounded-lg p-2 outline-none appearance-none w-full">
+                    </div>
                 </label>
                 <a href="">Esqueci minha senha</a>
                 <button type="submit">Entrar</button>

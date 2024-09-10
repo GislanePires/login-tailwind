@@ -6,6 +6,7 @@ module.exports = {
       fontFamily: {
         sans: ["DM Sans","sans-serif"],
       },
+      scale: ['focus-within'],
     },
   },
   plugins: [],
