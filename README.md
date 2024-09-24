@@ -1,5 +1,10 @@
 # [💻 A tela de login mais bonita do mundo com Tailwind CSS](https://codante.io/mini-projetos/mp-tela-login-tailwind)
 
+## Demonstração
+
+![Versão desktop](./images/login_lindo.png)
+![Versão mobile](./images/login_lindo_mobile.png)
+
 Você foi contratado por uma empresa de desenvolvimento de software para criar a tela de login mais bonita do mundo usando o framework Tailwind CSS. A empresa deseja proporcionar uma experiência visualmente agradável aos usuários ao fazerem login em seus sistemas.
 
 ## 🔨 Requisitos
@@ -16,11 +21,6 @@ Você foi contratado por uma empresa de desenvolvimento de software para criar a
 ## 🔍 Dicas
 - Considere adicionar transições e animações suaves para tornar a experiência do usuário mais agradável.
 - Teste seu design em diferentes dispositivos e navegadores para garantir que ele seja responsivo e funcional em todos eles.
-
-## 🎨 Design sugerido
-🔗 [Acesse o link do Figma](https://www.figma.com/file/suvmja6210ggZOO6Cpehjl/Mini-Projeto---A-tela-de-login-mais-bonita-do-mundo?type=design&node-id=0%3A1&t=pnT8xEiypSKTO4Z7-1)
-
-![image](https://github.com/codante-io/mp-tela-login-tailwind/assets/6475893/914bc33a-ed2a-4720-bf3a-f2c2d9eb41a8)
 
 
 ## 📝 Mockups
